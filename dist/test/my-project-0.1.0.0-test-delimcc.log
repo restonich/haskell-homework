@@ -1,0 +1,4 @@
+Test suite test-delimcc: RUNNING...
+Cases: 12  Tried: 0  Errors: 0  Failures: 0Cases: 12  Tried: 1  Errors: 0  Failures: 0Cases: 12  Tried: 2  Errors: 0  Failures: 0Cases: 12  Tried: 3  Errors: 0  Failures: 0Cases: 12  Tried: 4  Errors: 0  Failures: 0Cases: 12  Tried: 5  Errors: 0  Failures: 0Cases: 12  Tried: 6  Errors: 0  Failures: 0Cases: 12  Tried: 7  Errors: 0  Failures: 0Cases: 12  Tried: 8  Errors: 0  Failures: 0Cases: 12  Tried: 9  Errors: 0  Failures: 0Cases: 12  Tried: 10  Errors: 0  Failures: 0Cases: 12  Tried: 11  Errors: 0  Failures: 0                                            Cases: 12  Tried: 12  Errors: 0  Failures: 0
+Test suite test-delimcc: PASS
+Test suite logged to: dist\test\my-project-0.1.0.0-test-delimcc.log
